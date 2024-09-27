@@ -83,11 +83,9 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
 ## 🚀 Projects & Contributions
 **Check out my repositories for more about my projects in Data Analytics, Web Development, Cloud Computing, and more!**
 
----
 
 I thrive on challenges and continuously seek opportunities to expand my skill set in data-driven environments. With an analytical mindset and **effective communication skills**, I collaborate successfully with cross-functional teams to ensure that data insights align with business objectives.
 
----
 
 ## 📫 Let's Connect!
 
