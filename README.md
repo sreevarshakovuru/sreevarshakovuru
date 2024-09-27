@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in data analysis, visualization, and cloud technologies. I enjoy turning data into actionable insights that drive business decisions.
 
-I thrive on challenges and continuously seek opportunities to expand my skill set in data-driven environments. With an analytical mindset and effective communication skills, I collaborate successfully with cross-functional teams to ensure that data insights align with business objectives.
-
-Master’s in Computer Science graduate with over two years of hands-on experience as a Data Analyst and Software & Cloud Developer. Proficient in a diverse tech stack, including **.NET Core, Azure, AWS, Angular, SQL, and various DevOps tools**, I have a strong foundation in software development, cloud technologies, and data analytics.  
+**Recent Computer Science Master’s graduate** with over two years of hands-on experience as a Data Analyst and Software & Cloud Developer. Proficient in a diverse tech stack, including **Python, SQL, .NET , Azure, AWS and various DevOps tools**, I have a strong foundation in software development, cloud technologies, and data analytics.  
 
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
@@ -72,6 +70,8 @@ Here are a few projects I’ve worked on:
    - Tools used: Tableau, SQL
 
 ---
+
+I thrive on challenges and continuously seek opportunities to expand my skill set in data-driven environments. With an analytical mindset and **effective communication skills**, I collaborate successfully with cross-functional teams to ensure that data insights align with business objectives.
 
 ## 🌱 I'm Currently Learning
 
