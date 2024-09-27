@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
 ---
----
 ## 💼 Professional Experience
 - **HCL Tech Ltd. – Chennai, India**
     - 📊 Analyzed large datasets to derive actionable insights, empowering business decisions.
@@ -26,7 +25,6 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
     - ☁️ Deployed applications on Google Cloud Platform (GCP) and Microsoft Azure cloud services.
     - 🌐 Built dynamic and responsive user interfaces with HTML and JavaScript.
 
----
 ---
 
 ## 🛠️ Skills
@@ -82,7 +80,6 @@ August 2022 - December 2023 | CGPA: 3.6
 Bachelor of Technology, Computer Science Engineering
 June 2016 - September 2020 | CGPA: 3.6
 
----
 ---
 
 ## 🚀 Projects & Contributions
