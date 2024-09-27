@@ -2,13 +2,22 @@
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in data analysis, visualization, and cloud technologies. I enjoy turning data into actionable insights that drive business decisions.
 
+I thrive on challenges and continuously seek opportunities to expand my skill set in data-driven environments. With an analytical mindset and effective communication skills, I collaborate successfully with cross-functional teams to ensure that data insights align with business objectives.
+
+Master’s in Computer Science graduate with over two years of hands-on experience as a Data Analyst and Software & Cloud Developer. Proficient in a diverse tech stack, including **.NET Core, Azure, AWS, Angular, SQL, and various DevOps tools**, I have a strong foundation in software development, cloud technologies, and data analytics.  
+
+I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
+
 ---
 
 ## 🛠️ Skills
 
 - **Programming Languages:**
-  - 🐍 Python
-  - 💾 SQL
+  -🐍 Python
+  -💾 SQL
+  -🌐 HTML, CSS
+  -💻 C#
+  -📜 JavaScript
   
 - **Data Visualization Tools:**
   - 📊 Power BI
@@ -17,13 +26,32 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 - **Cloud Technologies:**
   - ☁️ Microsoft Azure
   - 🌩️ AWS
+    
+-**DevOps & Automation Tools:**
+  -🔄 Jenkins
+  -🐋 Docker
+  -🛠️ Azure DevOps
+  -⚙️ Kubernetes
+  -🌍 Terraform
+
+-**Version Control:**
+  -🗃️ Git, GitHub
+
+-**Frameworks & Libraries:**
+  -🖥️ .NET Framework
+  -🌐 MVC, ASP.NET
+  -⚛️ React
+
+-**Statistical Analysis & Modeling:**
+  -📈 Regression Analysis
+  -🧪 Hypothesis Testing
+  -🔮 Predictive Modeling
 
 - **Other Skills:**
   - 🛠️ Data Modeling
   - 📊 Machine Learning
   - 🔄 ETL Processes
   - ⚙️ Agile Methodology
-  - 📑 Documentation & SOPs
   
 ---
 
@@ -61,8 +89,4 @@ Feel free to reach out if you want to collaborate or just chat about data!
 
 ---
 
-![Data Visualization](https://via.placeholder.com/800x400.png?text=Data+Visualization)  
-*Transforming raw data into visual insights* 
 
-![Data Analysis](https://via.placeholder.com/800x400.png?text=Data+Analysis)  
-*Analysing patterns and trends to guide decisions* 
