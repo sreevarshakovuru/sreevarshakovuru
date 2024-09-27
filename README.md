@@ -44,22 +44,22 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   - ☁️ Microsoft Azure
   - 🌩️ AWS
     
--**DevOps & Automation Tools:**
+- **DevOps & Automation Tools:**
   - 🔄 Jenkins
   - 🐋 Docker
   - 🛠️ Azure DevOps
   - ⚙️ Kubernetes
   - 🌍 Terraform
 
--**Version Control:**
+- **Version Control:**
   - 🗃️ Git, GitHub
 
--**Frameworks & Libraries:**
+- **Frameworks & Libraries:**
   - 🖥️ .NET Framework
   - 🌐 MVC, ASP.NET
   - ⚛️ React
 
--**Statistical Analysis & Modeling:**
+- **Statistical Analysis & Modeling:**
   - 📈 Regression Analysis
   - 🧪 Hypothesis Testing
   - 🔮 Predictive Modeling
