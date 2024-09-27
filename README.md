@@ -1,49 +1,68 @@
-# Sree Varsha Kovuru - Data Analyst
+# 👋 Hello, I'm Sree Varsha Kovuru!
 
-Welcome to my GitHub profile! I am a passionate Data Analyst with a Master's degree in Computer Science and a strong foundation in data analytics, visualization, and cloud technologies. I enjoy turning data into actionable insights and leveraging my skills to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in data analysis, visualization, and cloud technologies. I enjoy turning data into actionable insights that drive business decisions.
 
-## Skills
+---
 
-- **Programming Languages**:
-  - Python
-  - SQL
-- **Data Visualization Tools**:
-  - Power BI
-  - Tableau
-- **Technologies**:
-  - Azure
-  - AWS
-- **Other Skills**:
-  - Machine Learning
-  - Data Modeling
-  - ETL (Extract, Transform, Load)
-  - Agile Methodologies
-  - Git & Version Control
+## 🛠️ Skills
 
-## Academic Projects
+- **Programming Languages:**
+  - 🐍 Python
+  - 💾 SQL
+  
+- **Data Visualization Tools:**
+  - 📊 Power BI
+  - 📈 Tableau
+  
+- **Cloud Technologies:**
+  - ☁️ Microsoft Azure
+  - 🌩️ AWS
 
-### 1. Machine Learning for Traffic Forecasting
-- Developed a predictive model using Python and machine learning algorithms to forecast traffic patterns.
-- Utilized libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+- **Other Skills:**
+  - 🛠️ Data Modeling
+  - 📊 Machine Learning
+  - 🔄 ETL Processes
+  - ⚙️ Agile Methodology
+  - 📑 Documentation & SOPs
+  
+---
 
-### 2. Data Modeling in Insurance Management
-- Designed and implemented a data model for managing insurance data, improving data accessibility and reporting efficiency.
-- Employed SQL for data querying and analysis.
+## 📈 Projects
 
-## Work Experience
+Here are a few projects I’ve worked on:
 
-### HCL Tech Ltd.
-- Developed interactive dashboards and reports using Power BI and Tableau, facilitating data-driven decision-making.
-- Collaborated with cross-functional teams to gather requirements and provide insights based on data analysis.
+1. **Traffic Forecasting using Machine Learning**
+   - Developed predictive models to analyze traffic patterns.
+   - Tools used: Python, SQL, Azure
 
-### Kaashiv Infotech
-- Conducted ETL testing and data validation, ensuring data accuracy and completeness.
-- Created SQL scripts for data analysis and reporting.
+2. **Insurance Management Data Model**
+   - Created a comprehensive data model for insurance analytics.
+   - Tools used: SQL, Power BI
 
-## Contact Me
+3. **E-Learning Portal Analytics Dashboard**
+   - Designed an interactive dashboard for an e-learning platform.
+   - Tools used: Tableau, SQL
 
-Feel free to reach out for collaboration, questions, or just to connect!  
-- **Email**: [varshakovuru@gmail.com](mailto:varshakovuru@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](your-linkedin-profile-url)  
+---
 
-Thank you for visiting my profile!
+## 🌱 I'm Currently Learning
+
+- Advanced Machine Learning Techniques
+- Data Warehousing Concepts
+- Cloud Computing Best Practices
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate or just chat about data!  
+- 📧 Email: [varshakovuru@gmail.com](mailto:varshakovuru@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sree-varsha-kovuru/)  
+
+---
+
+![Data Visualization](https://via.placeholder.com/800x400.png?text=Data+Visualization)  
+*Transforming raw data into visual insights* 
+
+![Data Analysis](https://via.placeholder.com/800x400.png?text=Data+Analysis)  
+*Analysing patterns and trends to guide decisions* 
