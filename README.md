@@ -72,10 +72,10 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   
 ---
 ## 📚 Education
-**University of North Texas, Denton, United States**
+- **University of North Texas, Denton, United States**
     - Master of Science, Computer Science            August 2022 - December 2023 | CGPA: 3.6
 
-**Audisankara College of Engineering & Technology, Nellore, India**
+- **Audisankara College of Engineering & Technology, Nellore, India**
     - Bachelor of Technology, Computer Science Engineering            June 2016 - September 2020 | CGPA: 3.6
 
 ---
