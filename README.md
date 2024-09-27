@@ -93,7 +93,9 @@ I thrive on challenges and continuously seek opportunities to expand my skill se
 
 Feel free to reach out if you want to collaborate or just chat about data!  
 - 📧 Email: [varshakovuru@gmail.com](mailto:varshakovuru@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sree-varsha-kovuru/)  
+- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sree-varsha-kovuru/)
+- 🗂️ GitHub: [GitHub](https://github.com/sreevarshakovuru)
+
 
 ---
 
