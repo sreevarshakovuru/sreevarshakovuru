@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
 ---
-## 💼 Professional Experience
-- **HCL Tech Ltd. – Chennai, India**
+## 💼 [Professional Experience]
+(- **HCL Tech Ltd. – Chennai, India**
     - 📊 Analyzed large datasets to derive actionable insights, empowering business decisions.
     - 🛠️ Designed and implemented data models to ensure reporting accuracy and data integrity.  
     - 💻 Developed interactive dashboards using Power BI and Tableau for real-time KPI tracking.
@@ -23,7 +23,7 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
     - 🖥️ Developed web applications using .NET Framework and C#, following OOP principles.
     - 💾 Managed and optimized SQL Server databases, ensuring data integrity and performance.
     - ☁️ Deployed applications on Google Cloud Platform (GCP) and Microsoft Azure cloud services.
-    - 🌐 Built dynamic and responsive user interfaces with HTML and JavaScript.
+    - 🌐 Built dynamic and responsive user interfaces with HTML and JavaScript.)
 
 ---
 
