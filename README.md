@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Sree Varsha Kovuru!
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in data analysis, visualization, and cloud technologies. I enjoy turning data into actionable insights that drive business decisions.
-
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.google.com/imgres?q=data%20employee%20digital%20images&imgurl=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F05%2F38%2F33%2F65%2F1000_F_538336549_cDsXia2nsNqP53OE8TBhTuHYjUmacUJv.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fbg%2Fimages%2Finternet-networking-and-digital-transformation-with-woman-and-tablet-for-global-communication-website-and-technology-abstract-big-data-iot-future-and-cloud-computing-innovation-with-employee%2F538336549&docid=5NHQUYzTNY2M3M&tbnid=p8j-59xEJ1ujMM&vet=12ahUKEwinrcid1_CIAxX_jYkEHdk_D5Y4FBAzegQISxAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwinrcid1_CIAxX_jYkEHdk_D5Y4FBAzegQISxAA" />
+<div align="left"> 
 **Recent Computer Science Master’s graduate** with over two years of hands-on experience as a Data Analyst and Software & Cloud Developer. Proficient in a diverse tech stack, including **Python, SQL, .NET , Azure, AWS and various DevOps tools**, I have a strong foundation in software development, cloud technologies, and data analytics.  
 
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
-<div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://bingimages.herokuapp.com/unsplash1" />
-<div align="left"> 
+
 ---
 
 ## 🛠️ Skills
