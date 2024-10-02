@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 **Recent Computer Science Master’s graduate** with over two years of hands-on experience as a Data Analyst and Software & Cloud Developer. Proficient in a diverse tech stack, including **Python, SQL, .NET , Azure, AWS and various DevOps tools**, I have a strong foundation in software development, cloud technologies, and data analytics.  
 
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
-
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://bingimages.herokuapp.com/unsplash1" />
+<div align="left"> 
 ---
 
 ## 🛠️ Skills
@@ -51,14 +53,6 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   - 🔄 ETL Processes
   - ⚙️ Agile Methodology
   
----
-## 📚 Education
-- **University of North Texas, Denton, United States**
-    - Master of Science, Computer Science            August 2022 - December 2023 
-
-- **Audisankara College of Engineering & Technology, Nellore, India**
-    - Bachelor of Technology, Computer Science Engineering            June 2016 - September 2020
-
 ---
 
 ## 🚀 Projects & Contributions
