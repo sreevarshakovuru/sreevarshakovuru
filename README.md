@@ -54,10 +54,10 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
 ---
 ## 📚 Education
 - **University of North Texas, Denton, United States**
-    - Master of Science, Computer Science            August 2022 - December 2023 | CGPA: 3.6
+    - Master of Science, Computer Science            August 2022 - December 2023 
 
 - **Audisankara College of Engineering & Technology, Nellore, India**
-    - Bachelor of Technology, Computer Science Engineering            June 2016 - September 2020 | CGPA: 3.6
+    - Bachelor of Technology, Computer Science Engineering            June 2016 - September 2020
 
 ---
 
@@ -74,8 +74,8 @@ I thrive on challenges and continuously seek opportunities to expand my skill se
 Feel free to reach out if you want to collaborate or just chat about data!  
 
 <p align="Left">
-  <a href="https://linkedin.com/in/sree-varsha-kovuru/"><img alt="Linkedin" title="Sree Varsha Kovuru Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:varshakovuru@gmail.com"><img alt="Gmail" title="Sree Varsha Kovuru Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sree-varsha-kovuru/"><img alt="Sree Varsha Kovuru" title="Sree Varsha Kovuru Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:varshakovuru@gmail.com"><img alt="varshakovuru@" title="Sree Varsha Kovuru Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/sreevarshakovuru"><img alt="Github" title="Sree Varsha Kovuru Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
