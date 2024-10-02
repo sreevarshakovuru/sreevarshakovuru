@@ -7,25 +7,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
 ---
-## 💼 [Professional Experience]
-(- **HCL Tech Ltd. – Chennai, India**
-    - 📊 Analyzed large datasets to derive actionable insights, empowering business decisions.
-    - 🛠️ Designed and implemented data models to ensure reporting accuracy and data integrity.  
-    - 💻 Developed interactive dashboards using Power BI and Tableau for real-time KPI tracking.
-    - 📈 Performed advanced statistical analysis, including regression and predictive modeling to forecast trends.
-    - 🛠️ Collaborated with cross-functional teams, translating business needs into technical reports and dashboards.
- - **Kaashiv Infotech – Chennai, India**
-    - 📑 Created detailed business transaction reports with SQL, enhancing accessibility to critical insights.
-    - 🌍 Configured Google Analytics to monitor user activity for over 35,000+ monthly visitors.
-    - 📈 Designed Tableau reports to elevate business intelligence capabilities.
-    - 🤖 Utilized machine learning algorithms and Python libraries (pandas, numpy, etc.) for predictive modeling.
-- **Coempt Edu Teck – Hyderabad, India**
-    - 🖥️ Developed web applications using .NET Framework and C#, following OOP principles.
-    - 💾 Managed and optimized SQL Server databases, ensuring data integrity and performance.
-    - ☁️ Deployed applications on Google Cloud Platform (GCP) and Microsoft Azure cloud services.
-    - 🌐 Built dynamic and responsive user interfaces with HTML and JavaScript.)
-
----
 
 ## 🛠️ Skills
 
@@ -91,7 +72,9 @@ I thrive on challenges and continuously seek opportunities to expand my skill se
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate or just chat about data!  
-- 📧 Email: [varshakovuru@gmail.com](mailto:varshakovuru@gmail.com)  
+- 📧 Email: [varshakovuru@gmail.com](mailto:varshakovuru@gmail.com)
+- <p align="center">
+  <a href="https://linkedin.com/in/sree-varsha-kovuru/"><img alt="Linkedin" title="Sree Varsha Kovuru Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sree-varsha-kovuru/)
 - 🗂️ GitHub: [GitHub](https://github.com/sreevarshakovuru)
 
