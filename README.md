@@ -76,7 +76,7 @@ Feel free to reach out if you want to collaborate or just chat about data!
 <p align="Left">
   <a href="https://linkedin.com/in/sree-varsha-kovuru/"><img alt="LinkedIn" title="SreeVarsha Kovuru" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:varshakovuru@gmail.com"><img alt="Gmail" title="varshakovuru@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/sreevarshakovuru"><img alt="Github" title="Sree Varsha Kovuru Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/sreevarshakovuru"><img alt="Github" title="SreeVarshaKovuru Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
