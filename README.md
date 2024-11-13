@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Sree Varsha Kovuru!
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong foundation in data analysis, visualization, and cloud technologies. I enjoy turning data into actionable insights that drive business decisions.
+Welcome to my GitHub profile! I'm a passionate technologist with a strong foundation in data analysis, visualization, and Web technologies. I enjoy turning data into actionable insights that drive business decisions.
 
-**Recent Computer Science Master’s graduate** with over three years of hands-on experience as a Data Analyst and Software Developer. Proficient in a diverse tech stack, including **Python, SQL, Azure, AWS and various tools**, I have a strong foundation in data analytics and software development.  
+**Recent Computer Science Master’s graduate** with over three years of hands-on experience as a Data Analyst and Full stack Developer. Proficient in a diverse tech stack, including **Python, SQL, Django, Mongo DB, Azure, AWS and various tools**, I have a strong foundation in data analytics and software development.  
 
 I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
@@ -14,7 +14,6 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   - 🐍 Python
   - 💾 SQL
   - 🌐 HTML, CSS
-  - 💻 C#
   - 📜 JavaScript
   
 - **Data Visualization Tools:**
@@ -26,8 +25,8 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   - 🌩️ AWS
     
 - **Frameworks & Libraries:**
-  - 🖥️ .NET Framework
-  - 🌐 MVC, ASP.NET
+  - 🖥️ Django Framework
+  - 🌐 OAuth toolkit
   - ⚛️ React
 
 - **Statistical Analysis & Modeling:**
@@ -44,7 +43,7 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
 ---
 
 ## 🚀 Projects & Contributions
-**Check out my repositories for more about my projects in Data Analytics, Web Development, Cloud Computing, and more!**
+**Check out my repositories for more about my projects in Data Analytics, Web Development, and more!**
 
 ---
 
