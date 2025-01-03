@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate technologist with a strong foundation in data analysis, visualization, and Web technologies. I enjoy turning data into actionable insights that drive business decisions.
 
-**Recent Computer Science Master’s graduate** with over three years of hands-on experience as a Data Analyst and Full stack Developer. Proficient in a diverse tech stack, including **Python, SQL, Django, Mongo DB, Azure, AWS and various tools**, I have a strong foundation in data analytics and software development.  
+**Recent Computer Science Master’s graduate** with over three years of hands-on experience as a Data Analyst and Full stack Developer. Proficient in a diverse tech stack, including **Python, SQL,  Azure, AWS and various tools**, I have a strong foundation in data analytics and software development.  
 
-I am now actively **seeking opportunities** to leverage my skills and contribute to strategic business decisions.
 
 ---
 
@@ -18,21 +17,10 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
   
 - **Data Visualization Tools:**
   - 📊 Power BI
-  - 📈 Tableau
   
 - **Cloud Technologies:**
   - ☁️ Microsoft Azure
   - 🌩️ AWS
-    
-- **Frameworks & Libraries:**
-  - 🖥️ Django Framework
-  - 🌐 OAuth toolkit
-  - ⚛️ React
-
-- **Statistical Analysis & Modeling:**
-  - 📈 Regression Analysis
-  - 🧪 Hypothesis Testing
-  - 🔮 Predictive Modeling
 
 - **Other Skills:**
   - 🛠️ Data Modeling
@@ -47,7 +35,7 @@ I am now actively **seeking opportunities** to leverage my skills and contribute
 
 ---
 
-I thrive on challenges and continuously seek opportunities to expand my skill set in data-driven environments. With an analytical mindset and **effective communication skills**, I collaborate successfully with cross-functional teams to ensure that data insights align with business objectives.
+I thrive on challenges to expand my skill set in data-driven environments.
 
 
 ## 📫 Let's Connect!
